@@ -1,6 +1,4 @@
-//Crear un vector de tipo Entero con 5 posiciones, llenarlo con información solicitada al usuario. Después de recoger toda la 
-//información, se requiere imprimir el índice de cada posición en el arreglo con su valor de la siguiente manera:
-	//[0] = 55 [1] = 99 [2] = 11 [3] = 56 [4] = 69
+
 
 
 
@@ -14,7 +12,7 @@ Proceso ejercicioArreglo_1
 	
 	Limpiar Pantalla;
 	
-	Escribir "Ingrese 5 números para crear un vector";
+	Escribir "Ingrese 5 nÃºmeros para crear un vector";
 	Leer vector[0];
 	Leer vector[1];
 	Leer vector[2];
